@@ -1,9 +1,9 @@
-# The following is the order of the links in the header of the website.
+# Header navigation
 main:
   - title: "About"
     url: /
 
-  - title: "Portfolio"
+  - title: "Projects & Experience"
     url: /portfolio/
 
   - title: "Publications"

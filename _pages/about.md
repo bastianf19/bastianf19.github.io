@@ -44,7 +44,7 @@ Currently working as a **Data Scientist (Growth)** at **GoTo Financial (Gopay)**
 
 ## Featured Work & Research
 
-Explore detailed breakdowns in the **[Portfolio](/portfolio/)** and **[Publications](/publications/)**:
+Explore detailed breakdowns in **[Projects & Experience](/portfolio/)**, **[Publications](/publications/)**, and my complete **[CV](/cv/)**:
 
 1. **[Gopay Personalization & Search Recommender Systems](/portfolio/gopay-recommendation-search/)**: Deep multi-task learning and query rewriting at scale.
 2. **[Tokopedia & ByteDance Search Ranking & City Affinity](/portfolio/tokopedia-search-affinity/)**: Machine learning models powering e-commerce discovery.
